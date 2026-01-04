@@ -59,7 +59,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Fudge](./recipes/desserts/fudge.md) | &#x1F4DC;
 [Heath Candy Bar Cake](./recipes/desserts/heathbarcake.md) | &#x1F4DC;
 [Ice Box Cookies](./recipes/desserts/iceboxcookies.md) | &#x1F4DC;
-[Impossible Pie](./recipes/desserts/impossiblepie.md) | &#x1F4DC;
+[Impossible Pie](./recipes/desserts/impossiblepie.md) | &#x1F3AB;&#x1F9EA;&#x1F44D;
 [Lemon Cream](./recipes/desserts/lemoncream.md) |  &#x1F4DC;
 [Lucky Stars](./recipes/desserts/luckystars.md) |  &#x1F4DC;
 [Mahogany Cake](./recipes/desserts/mahoganycake.md) |  &#x1F4DC;

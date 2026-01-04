@@ -32,7 +32,7 @@ steps:
     text: Pour into an ungreased 10 inch pie plate.
   - header: Bake
     text: Bake at 400 degrees for 30 to 35 minutes.
-    image: assets/images/general/noimage.jpg
+    image: assets/images/recipes/impossiblepie/impossiblepiepic-sm.jpg
 ---
 
 {::comment}========================={:/comment}
