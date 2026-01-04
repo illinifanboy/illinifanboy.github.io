@@ -2,10 +2,10 @@
 layout: page
 title: Impossible Pie
 # blurb: A short, one-line introduction
-# finalproduct: assets/images/general/noimage.jpg
+finalproduct: assets/images/recipes/impossiblepie/impossiblepiepic-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/impossiblepie-sm.jpg
-# review: Not yet reviewed.
+review: This make a pretty yummy coconut custard pie.  A bit eggy but still very good.  The eggs mean eat in the first couple of days.
 # story: 
 ingredients:
   - name: Eggs 
